@@ -1,4 +1,3 @@
 <?php
-echo 'aaaaa';
-echo 'tomoya';
+echo '課題20';
 ?>
