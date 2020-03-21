@@ -1,3 +1,3 @@
 <?php
-echo '課題20';
+echo 'takaniwaサブ課題11';
 ?>
